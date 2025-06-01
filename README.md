@@ -1,70 +1,42 @@
-# Getting Started with Create React App
+# 팜팜
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![팜팜(resize)](https://github.com/2023-AISCHOOL-APP/project_Appian/assets/150095756/40f71570-8f9b-40e3-99e9-de4b66cfa65b)
 
-## Available Scripts
+#### 데모사이트: [팜팜](http://farmfarm.springdream.kr)
 
-In the project directory, you can run:
+## 🖥️ 프로젝트 소개
 
-### `npm start`
+도심농부를 위한 텃밭 분양 플랫폼 (광인사 1차 프로젝트)
+<br>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 🕰️ 개발 기간
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+2023.07.26 ~ 2023.08.18
+<br>
 
-### `npm test`
+## 👩‍👩‍👧‍👦 멤버 구성
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- [임지호](https://github.com/jihoyim) : 팀장 / 프로젝트 총괄
+- [정건식](https://github.com/kun-sik) : 기획 및 프론트엔드
+- [송민아](https://github.com/minaminaminaaaa) : 디자인 및 프론트엔드
+- [양춘모](https://github.com/SpringDream0406) : 백엔드
+- [이지혜](https://github.com/julie-jihyelee) : 프론트엔드 PM / 기획
 
-### `npm run build`
+## ⚙️ 개발 환경
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- 프론트엔드 : React
+- 백엔드 : Python, Flask
+- 데이터베이스 : Oracle
+- 버전관리 : Github
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## 🗒️ 프로젝트 상세 설명
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- [노션 링크](https://hellosori.notion.site/4dd1ce5f2f684bf9adf2cb49d631c81b)
 
-### `npm run eject`
+## 🎥 소개 영상
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+[![Video Label](https://img.youtube.com/vi/2ZGiNXSUUps/0.jpg)](https://www.youtube.com/embed/2ZGiNXSUUps)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## 🎥 시연 영상
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+[![Video Label](https://img.youtube.com/vi/HNtmMcy6rKk/0.jpg)](https://www.youtube.com/embed/HNtmMcy6rKk)
